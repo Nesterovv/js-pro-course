@@ -1,2 +1,3 @@
 # js-pro-course
-First
+ My first reopzitory 
+ I love :coffee:.
